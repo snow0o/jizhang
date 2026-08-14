@@ -1,4 +1,4 @@
-const CACHE_NAME = 'jizhang-pwa-v2';
+const CACHE_NAME = 'jizhang-pwa-v4';
 const APP_SHELL = [
   './',
   './index.html',
